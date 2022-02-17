@@ -46,10 +46,11 @@ body{
   font-style: normal;
   font-variant: normal;
   text-transform: none;}
-.center {
+.center{ 
+    margin-top: -280px;
   padding: 50px 50px;
   background: rgb(104, 101, 101);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .center h1 {
   font-size: 2em;
@@ -57,9 +58,9 @@ body{
   padding: 10px;
   color: #000;
   letter-spacing: 5px;
-  margin-bottom: 60px;
+  margin-bottom: 50px;
   font-weight: bold;
-  padding-left: 10px;
+  padding-left: 15px;
 }
 .center .inputbox {
   position: relative;
