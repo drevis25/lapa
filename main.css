@@ -20,3 +20,14 @@ body{
     font-variant: normal;
     text-transform: none;
     }
+.loginbilde
+{
+    position: absolute;
+    width: 1920px;
+    height: 400px;
+    left: 0px;
+    top: 680px;
+    
+    background: url(https://w7.pngwing.com/pngs/426/170/png-transparent-riga-panorama-miscellaneous-city-monochrome.png);
+
+}
