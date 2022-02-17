@@ -1,0 +1,10 @@
+.otra h1{
+    font-size: 30px;
+    border-left: 5px solid #9E9073;
+    padding: 10px;
+    color: #000;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    padding-left: 15px;
+}
