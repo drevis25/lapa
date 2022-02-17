@@ -11,23 +11,7 @@ body{
     font-style: normal;
     font-variant: normal;
     text-transform: none;}
-#bg{
-        position: fixed; 
-        top: -50%; 
-        left: -50%; 
-        width: 200%; 
-        height: 200%;}
-#bg img{
-        position: absolute; 
-        top: 400px; 
-        left: 0; 
-        right: 0; 
-        bottom: 0; 
-        margin: auto; 
-        min-width: 50%;
-        min-height: 50%;
-        background-size: cover;}
-      @import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");body {
+      body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -46,18 +30,17 @@ body{
   font-style: normal;
   font-variant: normal;
   text-transform: none;}
-.center{ 
-    margin-top: -220px;
+.center{
   padding: 50px 50px;
   background: rgb(104, 101, 101);
   border-radius: 20px;
 }
 .center h1 {
-  font-size: 2em;
+  font-size: 30px;
   border-left: 5px solid #9E9073;
   padding: 10px;
   color: #000;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   margin-bottom: 50px;
   font-weight: bold;
   padding-left: 15px;
@@ -90,6 +73,7 @@ body{
   font-size: 1em;
   transition: 0.6s;
   font-family: sans-serif;
+
 }
 .center .inputbox input:focus ~ span,
 .center .inputbox input:valid ~ span {
@@ -102,3 +86,12 @@ body{
   border: rgb(255, 255, 255);}
   .center .inputbox:hover [type="button"] {
   background: linear-gradient(45deg, rgb(0, 0, 0), #9E9073);}
+  .card_info{
+  font-size: 14px;
+  padding: 10px;
+  color: #000;
+  letter-spacing: 2.5px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  padding-left: 15px;
+  }
