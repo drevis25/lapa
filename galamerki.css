@@ -16,9 +16,7 @@ text-decoration: none;
 font-size: 25px;
 line-height: 25px;
 border-radius: 17px;
-font-family: "Sansita Swashed", cursive;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
-
 }
 .headera.logo {
 font-size: 25px;
@@ -35,14 +33,4 @@ color: white;
 .header-right {
 width: 1000px;
 margin: 0 auto;
-}
-@media screen and (max-width: 500px) {
-.header a {
-float: none;
-display: block;
-text-align: left;
-}
-.header-right {
-float: none;
-}
 }
