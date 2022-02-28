@@ -15,14 +15,14 @@ color: black;
 text-align: center;
 padding: 12px;
 text-decoration: none;
-font-size: 25px;
+font-size: 30px;
 line-height: 25px;
 border-radius: 17px;
 font-family: "Sansita Swashed", cursive;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .headera.logo {
-font-size: 25px;
+font-size: 30px;
 font-weight: bold;
 }
 .header a:hover {
@@ -46,4 +46,22 @@ text-align: left;
 .header-right {
 float: none;
 }
+}
+.valsts{
+background: rgb(104, 101, 101); 
+width: 270px;
+height: 270px;
+font-size: 22px;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+        float: left;
+        padding: 10px; 
+        border-radius: 17px;
+        margin:10px;
+}
+.Italija{
+    border-radius: 17px;
+}
+.h2{
+    font-size: 1000px;
 }
