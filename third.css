@@ -54,6 +54,7 @@ left: 300;
         float: right;
         padding: 20px; 
         border-radius: 17px;
+<<<<<<< HEAD
         margin:15px;
 }
 .galve{
@@ -65,4 +66,7 @@ left: 300;
 .pilseta{
     margin-top: 200px;
     font-size: 60px;
+=======
+        margin:10px;
+>>>>>>> 3bd551cc3a3f816cc519b825515f49add4e90e2f
 }
