@@ -29,10 +29,6 @@ font-weight: bold;
 background-color: grey;
 color: black;
 }
-.headera.active {
-background-color: green;
-color: white;
-}
 .header-right {
 width: 1000px;
 margin: 0 auto;
@@ -49,19 +45,24 @@ float: none;
 }
 .valsts{
 background: rgb(104, 101, 101); 
-width: 270px;
-height: 270px;
+width: 370px;
+height: 370px;
 font-size: 22px;
+left: 300;
         text-align: center;
         font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
-        float: left;
-        padding: 10px; 
+        float: right;
+        padding: 20px; 
         border-radius: 17px;
-        margin:10px;
+        margin:15px;
 }
-.Italija{
-    border-radius: 17px;
+.galve{
+    width: 815px;
+    margin: 0 auto;
+    margin-top: 110px;
+    height: 300px;
 }
-.h2{
-    font-size: 1000px;
+.pilseta{
+    margin-top: 200px;
+    font-size: 60px;
 }
