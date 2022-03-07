@@ -21,7 +21,7 @@ border-radius: 17px;
 font-family: "Sansita Swashed", cursive;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
-.headera.logo {
+.header a.logo {
 font-size: 30px;
 font-weight: bold;
 }
@@ -48,7 +48,7 @@ background: rgb(104, 101, 101);
 width: 370px;
 height: 370px;
 font-size: 22px;
-left: 300;
+left: 300px;
         text-align: center;
         font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
         float: right;
@@ -66,4 +66,9 @@ left: 300;
     margin-top: 200px;
     font-size: 60px;
         margin:10px;
+}
+.mainimg{
+    width: 280px;
+    height: 280px;
+    margin: 0 auto;
 }
