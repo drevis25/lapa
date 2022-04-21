@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-<form action="cfg.php" method=""
+<form action="cfg.php" method="">
 </body>
 </html>
